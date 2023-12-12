@@ -1,0 +1,55 @@
+{
+  "name": "JavaScript Quiz",
+  "questions": [
+    {
+      "text": "What is the result of the following expression: 5 + '5'?",
+      "options": ["10", "55", "Undefined", "NaN"],
+      "answer": "55"
+    },
+    {
+      "text": "Which built-in method adds one or more elements to the end of an array and returns the new length of the array?",
+      "options": ["push()", "add()", "end()", "concat()"],
+      "answer": "push()"
+    },
+    {
+      "text": "What is the correct way to declare a JavaScript variable?",
+      "options": ["variable carName;", "var carName;", "v carName;", "variable = carName;"],
+      "answer": "var carName;"
+    },
+    {
+      "text": "What is the result of the following expression: '5' - 3?",
+      "options": ["2", "8", "53", "Undefined"],
+      "answer": "2"
+    },
+    {
+      "text": "Which of the following is not a JavaScript data type?",
+      "options": ["Number", "String", "Boolean", "Float"],
+      "answer": "Float"
+    },
+    {
+      "text": "What is the result of the following expression: 'apple'.length;",
+      "options": ["5", "6", "1", "Undefined"],
+      "answer": "5"
+    },
+    {
+      "text": "What is the correct way to write a JavaScript if statement?",
+      "options": ["if i = 5 then", "if (i == 5)", "if i == 5 then", "if i = 5"],
+      "answer": "if (i == 5)"
+    },
+    {
+      "text": "Which of the following is a JavaScript framework?",
+      "options": ["React", "Django", "Laravel", "Flask"],
+      "answer": "React"
+    },
+    {
+      "text": "What is the result of the following expression: true && false?",
+      "options": ["true", "false", "Undefined", "NaN"],
+      "answer": "false"
+    },
+    {
+      "text": "Which of the following is used to select an HTML element in JavaScript?",
+      "options": ["querySelector()", "select()", "getElement()", "chooseElement()"],
+      "answer": "querySelector()"
+    }
+  ]
+}
